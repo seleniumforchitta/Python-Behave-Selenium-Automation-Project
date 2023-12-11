@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=C:\Users\chitt\PycharmProjects\Python-Behave-Selenium-AutoProject"
+set "VIRTUAL_ENV=C:\Users\chitt\PycharmProjects\Python-Behave-Selenium-Automation-Project"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
